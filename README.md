@@ -5,11 +5,5 @@
 
 
 
-📫 **Reach me:** JananAhmadiOZ@gmail.com
-
-
-### ⚙️ Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535) ![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat-square&logo=mathworks&logoColor=white&color=353535)
 
 
