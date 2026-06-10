@@ -5,21 +5,15 @@
 
 ## 👋 About Me
 
-AI Engineer and Technical Founder with years of experience building production LLM systems, agentic AI platforms, and large-scale data products.
+
 
 ### 🚀 What I'm Doing Now
 
-- 🤖 **Founding AI Lead at [Vendoroo](https://vendoroo.ai)** - Architecting and building agentic AI systems that automate maintenance workflows in real estate, combining advanced LLM frameworks, scalable backend services, and autonomous multi-agent coordination.
 
-- 📚 **Founder of [Pytopia](https://pytopia.ai)** - A data science education platform with 20,000+ learners, creating courses and mentorship programs that help people launch careers in ML and AI.
 
 ### 💼 Professional Highlights
 
-- **Dippy.ai** - Fine-tuned LLMs using LoRA and GRPO, improved engagement by 40%, and built safety systems for conversational AI
-- **Affinity.co** - Led ML initiatives including LLM-based data extraction, large-scale Spark pipelines, entity resolution, and recommendation engines
-- **AltaML** - Delivered applied ML solutions across healthcare, insurance, fundraising, and NLP
 
-I specialize in turning ambiguous ideas into real, scalable AI products, with deep expertise in LLMs, agent systems, backend architecture, and ML engineering.
 
 📫 **Reach me:** hejazizo.ali@gmail.com
 
