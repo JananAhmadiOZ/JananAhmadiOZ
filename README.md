@@ -15,7 +15,7 @@
 
 
 
-📫 **Reach me:** hejazizo.ali@gmail.com
+📫 **Reach me:** JananAhmadiOZ@gmail.com
 
 ### 🖥 Skills
 
